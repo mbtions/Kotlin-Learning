@@ -1,3 +1,5 @@
+### Explanation to th main function syntax in kotlin
+
 fun main(args : Array<String>) { ... }
 
 This is the main function, which is mandatory in every Kotlin application. 
